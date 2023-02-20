@@ -9,7 +9,7 @@
 
 <img width="400px" align="center" alt="DaniilMashkov" src="https://www.codewars.com/users/DaniilMashkov/badges/large" />
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://t.me/DaniilMashkov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/daniil-mashkov-7715b116b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
