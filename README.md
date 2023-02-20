@@ -1,5 +1,13 @@
-### Hi there 👋
-![Codewars](https://github.r2v.ch/codewars?user=DaniilMashkov&stroke=black&hide_clan=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilMashkov&show_icons=true&theme=dracula&hide_border=true)![Codewars](https://github.r2v.ch/codewars?user=DaniilMashkov&stroke=black&hide_clan=true&theme=dark&top_languages=true)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://t.me/DaniilMashkov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniil-mashkov-7715b116b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dankeeeez/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40"/></a>
+</p>
 <!--
 **DaniilMashkov/DaniilMashkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
