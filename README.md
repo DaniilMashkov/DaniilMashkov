@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Codewars](https://github.r2v.ch/codewars?user=DaniilMashkov&stroke=COLOR)
+![Codewars](https://github.r2v.ch/codewars?user=DaniilMashkov&stroke=black&hide_clan=true)
 <!--
 **DaniilMashkov/DaniilMashkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
