@@ -13,6 +13,7 @@
 <img alt="docker" src="https://img.shields.io/badge/docker-87CEFA.svg?style=for-the-badge&logo=docker&&logoColor=white" />&nbsp;
 <img alt="redis" src="https://img.shields.io/badge/redis-DC143C?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;
 <img alt="celery" src="https://img.shields.io/badge/celery-00FF00?style=for-the-badge&logo=celery&logoColor=white" />&nbsp;
+<img alt="pandas" src="https://img.shields.io/badge/pandas-blue?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-9370DB?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;
 <img alt="pytest" src="https://img.shields.io/badge/pytest-lightgrey?style=for-the-badge&logo=pytest&logoColor=white" />&nbsp;
 
