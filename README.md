@@ -9,7 +9,10 @@
 #### Tools I`m using:
 
 <img alt="django" src="https://img.shields.io/badge/django-32CD32.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;
+<img alt="vue" src="https://img.shields.io/badge/vue-ffffff.svg?&style=for-the-badge&logo=vuedotjs&logoColor=#43b56f" />&nbsp;
 <img alt="react" src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=cyan" />&nbsp;
+<img alt="swift-ui" src="https://img.shields.io/badge/swiftUI-blue.svg?&style=for-the-badge&logo=swift&logoColor=black" />&nbsp;
+<img alt="drone-ci" src="https://img.shields.io/badge/drone-ffffff.svg?&style=for-the-badge&logo=drone&logoColor=black" />&nbsp;
 <img alt="docker" src="https://img.shields.io/badge/docker-87CEFA.svg?style=for-the-badge&logo=docker&&logoColor=white" />&nbsp;
 <img alt="redis" src="https://img.shields.io/badge/redis-DC143C?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;
 <img alt="celery" src="https://img.shields.io/badge/celery-33FF80?style=for-the-badge&logo=celery&logoColor=white" />&nbsp;
