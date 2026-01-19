@@ -26,8 +26,7 @@
 
 <p align="left">
   <a href="https://t.me/DaniilMashkov" target="blank"><img align="center" src="https://cdn.simpleicons.org/Telegram" height="30" width="40"/></a>
-  <a href="https://www.linkedin.com/in/daniil-mashkov-7715b116b/" target="blank"><img align="center" src="https://cdn.simpleicons.org/Linkedin" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/dankeeeez/" target="blank"><img align="center" src="https://cdn.simpleicons.org/Instagram" width="40"/ height="30"></a>
+  <a href="https://www.linkedin.com/in/daniil-mashkov-7715b116b/"> Linkedin </a>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilMashkov&show_icons=true&theme=dracula&hide_border=true)
