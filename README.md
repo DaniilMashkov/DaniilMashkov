@@ -29,9 +29,6 @@
   <a href="https://www.linkedin.com/in/daniil-mashkov-7715b116b/"> Linkedin </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilMashkov&show_icons=true&theme=dracula&hide_border=true)
-
-<img width="400px" align="center" alt="DaniilMashkov" src="https://www.codewars.com/users/DaniilMashkov/badges/large" />
 
 
 
