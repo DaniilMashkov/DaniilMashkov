@@ -1,11 +1,11 @@
-#### Technology Stack:
+#### Languages:
 
 <img alt="py" src="https://img.shields.io/badge/python-green.svg?&style=for-the-badge&logo=python&logoColor=fff" />&nbsp;
 <img alt="go" src="https://img.shields.io/badge/Go-24292e?style=for-the-badge&logo=go&logoColor=00ADD8" />&nbsp;
 <img alt="javas" src="https://img.shields.io/badge/javascript-yellow.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt="swift" src="https://img.shields.io/badge/swift-orange.svg?&style=for-the-badge&logo=swift&logoColor=fff" />&nbsp;
 
-#### Tools I`m using:
+#### Technology Stack:
 
 <img alt="django" src="https://img.shields.io/badge/django-32CD32.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;
 <img alt="fastapi" src="https://img.shields.io/badge/fastapi-ffffff.svg?&style=for-the-badge&logo=fastapi&logoColor=#43b56f" />&nbsp;
