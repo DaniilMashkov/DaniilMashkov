@@ -1,10 +1,9 @@
 #### Technology Stack:
 
 <img alt="py" src="https://img.shields.io/badge/python-green.svg?&style=for-the-badge&logo=python&logoColor=fff" />&nbsp;
+<img alt="go" src="https://img.shields.io/badge/Go-24292e?style=for-the-badge&logo=go&logoColor=00ADD8" />&nbsp;
 <img alt="javas" src="https://img.shields.io/badge/javascript-yellow.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt="swift" src="https://img.shields.io/badge/swift-orange.svg?&style=for-the-badge&logo=swift&logoColor=fff" />&nbsp;
-<img alt="html" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
-<img alt="css" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
 
 #### Tools I`m using:
 
