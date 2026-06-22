@@ -20,6 +20,8 @@
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-9370DB?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;
 <img alt="pytest" src="https://img.shields.io/badge/pytest-lightgrey?style=for-the-badge&logo=pytest&logoColor=white" />&nbsp;
 <img alt="git" src="https://img.shields.io/badge/git-708090.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+<img alt="git" src="https://img.shields.io/badge/git-708090.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+<img alt="git" src="https://img.shields.io/badge/rabbit-mq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>&nbsp;
 
 #### Connect with me:
 
